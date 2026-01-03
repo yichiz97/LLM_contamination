@@ -72,8 +72,8 @@ If you use this code or data, please cite our paper:
 ```bibtex
 @inproceedings{zhang2025evaluating,
   title     = {Evaluating LLM-contaminated Crowdsourcing Data Without Ground Truth},
-  author={Zhang, Yichi and Pang, Jinlong and Zhu, Zhaowei and Liu, Yang},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  author    = {Zhang, Yichi and Pang, Jinlong and Zhu, Zhaowei and Liu, Yang},
+  booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year      = {2025}
 }
 
